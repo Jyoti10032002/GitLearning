@@ -4,3 +4,5 @@ console.log(button);
 const login = "Login page is added";
 console.log(login);
 
+const footer = "Footer added in the website";
+console.log(footer);
